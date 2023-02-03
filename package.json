@@ -25,11 +25,12 @@
     "@nestjs/jwt": "^10.0.1",
     "@nestjs/platform-express": "^9.0.0",
     "jest": "^29.4.1",
+    "nest-cli": "0.0.5",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
   "devDependencies": {
-    "@nestjs/cli": "^9.0.0",
+    "@nestjs/cli": "^9.1.9",
     "@nestjs/schematics": "^9.0.0",
     "@nestjs/testing": "^9.0.0",
     "@types/express": "^4.17.13",
